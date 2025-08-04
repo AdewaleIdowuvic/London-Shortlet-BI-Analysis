@@ -27,7 +27,9 @@ What is the overall scale and distribution of properties and hosts across differ
 
 **Key Insights & Strategies**
 
-![Image](https://github.com/user-attachments/assets/c145305f-98aa-4b6e-987c-7138d0f57bdd)
+
+<img width="1049" height="546" alt="Image" src="https://github.com/user-attachments/assets/9bac49f6-a5ce-4e04-a6d9-685bacf7741a" />
+
 
 
 a) Host Diversity: With 68K properties and 45K hosts, the ratio of approximately 1.5 properties per host indicates a mix of individual owners and professional managers, with Single Host being the majority (37.9K) but Multiple Host is also significant (30.8K).
@@ -37,11 +39,13 @@ b) Revenue Potential: The Estimated Total Revenue and Daily Estimated Revenue hi
 
 c) Listing Concentrated Demand: Westminster, Tower Hamlets, Hackney, Camden, and Kensington are the top 5 neighborhoods by property count, indicating high demand and established markets in these areas. Prioritizing marketing efforts and host acquisition campaigns in these high-performing neighborhoodsand community building within these areas in these locations will replicate success in emerging neighborhoods.
 
-![Image](https://github.com/user-attachments/assets/fb20aeb7-8f09-491f-b38e-4aafa6177492)
-
 Analysis 2: Property Type & Pricing Dynamics
 
 What types of properties dominate the market, how do their average prices vary geographically, and how does availability influence pricing?
+
+
+<img width="1051" height="551" alt="Image" src="https://github.com/user-attachments/assets/14cb0c7b-a766-4551-ae83-4cce92e99543" />
+
 
 **Key Insights & Strategies**
 
@@ -82,7 +86,9 @@ b) Long vs. Short Stay Pricing: The visual indicates that Average Price of Long 
 
 The in-depth analysis of the property listing dashboard reveals a robust and evolving market with substantial financial promise. Strategic takeaways from our findings include:
 
-![Image](https://github.com/user-attachments/assets/fb20aeb7-8f09-491f-b38e-4aafa6177492)
+
+<img width="1051" height="551" alt="Image" src="https://github.com/user-attachments/assets/14cb0c7b-a766-4551-ae83-4cce92e99543" />
+
 
 a) Diverse Host Ecosystem: We manage 68,000 properties from 45,000 hosts. While the majority are single-property hosts (over 80% based on the ratio of properties to hosts), a substantial number are professional managers with multiple listings.
 
